@@ -1,4 +1,4 @@
-Remove an element:
+//Remove an element:
 
 #include <stdio.h>
 
@@ -26,7 +26,7 @@ int main() {
     return 0;
 }
 
-Remove duplicates from a sorted array:
+//Remove duplicates from a sorted array:
 
 #include <stdio.h>
 
@@ -57,7 +57,7 @@ int main() {
     return 0;
 }
 
-Best time to buy and sell a commodity:
+//Best time to buy and sell a commodity:
 
 #include <stdio.h>
 
@@ -94,7 +94,7 @@ int main() {
     return 0;
 }
 
-Merging the strings:
+//Merging the strings:
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -128,7 +128,7 @@ int main() {
     return 0;
 }
 
-String reversal:
+//String reversal:
 
 #include <stdio.h>
 #include <string.h>
@@ -153,7 +153,8 @@ int main() {
     reverseWords(str);
     return 0;
 }
-Move all zeros to the end:
+
+//Move all zeros to the end:
 
 #include <stdio.h>
 
@@ -184,7 +185,7 @@ int main() {
 
 
 
-Is substring:
+//Is substring:
 
 #include <stdio.h>
 #include <string.h>
@@ -205,7 +206,7 @@ int main() {
 }
 
 
-Is subsequence:
+//Is subsequence:
 
 #include <stdio.h>
 
@@ -232,7 +233,7 @@ int main() {
 }
 
 
-Maximum value subarray:
+//Maximum value subarray:
 
 #include <stdio.h>
 
@@ -256,7 +257,7 @@ int main() {
     return 0;
 }
 
-Single occurrence of a number:
+//Single occurrence of a number:
 
 #include <stdio.h>
 
